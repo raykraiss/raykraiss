@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
+I'm Ray and I'm a student, front-end developer, and designer from North Carolina.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning front-end development
